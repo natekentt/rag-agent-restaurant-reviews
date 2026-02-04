@@ -9,3 +9,9 @@ To locally run:
 6. download embedding model (used to embed documents for our vector store)
    - ollama pull mxbai-embed-large
 7. to verify model downloads: ollama list
+8. run: python main.py and conversate
+
+Future work:
+
+- create UI using streamlit or React
+- hit real reviews online
